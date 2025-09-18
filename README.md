@@ -15,7 +15,6 @@
 
 A imagem abaixo mostra a tartaruga do `turtlesim` após desenhar algumas formas.
 
-*Dica: Para um efeito ainda melhor, você pode usar um programa de captura de tela para gravar um GIF do seu robô desenhando e substituir a imagem abaixo!*
 
 ![Turtlesim](https://wiki.ros.org/turtlesim?action=AttachFile&do=get&target=turtlesim.png)
 
