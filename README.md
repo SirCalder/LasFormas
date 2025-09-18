@@ -24,13 +24,13 @@ A imagem abaixo mostra a tartaruga do `turtlesim` após desenhar algumas formas.
 ### 🚀 Funcionalidades
 
 O robô é capaz de desenhar as seguintes formas:
-- Quadrado:white_medium_square:
+- Quadrado :white_medium_square:
 - Triângulo :small_red_triangle:
 - Estrela :star:
 - Círculo :black_circle:
-- Pentágono (⬟)
-- Hexágono (⬣)
-- Coração (❤️)
+- Pentágono ⬟
+- Hexágono ⬣
+- Coração ❤️
 
 ---
 
